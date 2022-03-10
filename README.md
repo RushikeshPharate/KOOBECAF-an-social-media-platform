@@ -5,7 +5,12 @@ Frontend is hosted at http://koobecaffrontend.herokuapp.com/
 
 # Technology Stack:
 
-NextJS, Django Rest Framework, PostgreSQL, Redux Toolkit, Redux Persist, JWT, Python
+* NextJS
+* Django Rest Framework 
+* PostgreSQL
+* Redux Toolkit
+* Redux Persist
+* JWT
 
 # Features of the app include:
 
